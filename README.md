@@ -1,2 +1,3 @@
-# money-converter
- A project of my first website
+# Money Converter
+
+Project developed during a bootcamp of initiation in programming using javascript
